@@ -61,7 +61,7 @@
     (aux_axis_origin 0 0)
     (visible_elements 7FFFF7FF)
     (pcbplotparams
-      (layerselection 0x010fc_ffffffff)
+      (layerselection 0x010f0_ffffffff)
       (usegerberextensions false)
       (usegerberattributes false)
       (usegerberadvancedattributes false)
@@ -84,9 +84,9 @@
       (subtractmaskfromsilk false)
       (outputformat 1)
       (mirror false)
-      (drillshape 1)
+      (drillshape 0)
       (scaleselection 1)
-      (outputdirectory ""))
+      (outputdirectory "Gerbers/"))
   )
 
   (net 0 "")
@@ -2203,7 +2203,7 @@
   (gr_text 10k (at 73.1 21.6) (layer F.SilkS) (tstamp 5C2FC440)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
-  (gr_text "Potentiometer B" (at 91.4 23.5 90) (layer F.SilkS) (tstamp 5C2FC39D)
+  (gr_text Potentiometer (at 91.4 23.5 90) (layer F.SilkS) (tstamp 5C2FC39D)
     (effects (font (size 1 1) (thickness 0.2)))
   )
   (gr_text "Potentiometer A" (at 91.8 41.000001 90) (layer F.SilkS) (tstamp 5C2FC290)
@@ -2656,7 +2656,7 @@
   (segment (start 96.5 46) (end 96.2 46.3) (width 0.25) (layer B.Cu) (net 38))
   (segment (start 49.34 28.2) (end 52.98 28.2) (width 0.25) (layer F.Cu) (net 39))
 
-  (zone (net 1) (net_name GND) (layer B.Cu) (tstamp 5C29D5D2) (hatch edge 0.508)
+  (zone (net 1) (net_name GND) (layer B.Cu) (tstamp 5C701AF4) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.5)
     (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
