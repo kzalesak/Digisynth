@@ -1,7 +1,9 @@
 # Digisynth - the pocket Lunetta
 
 A simple Lunetta-type synthesiser based on the 40106 integrated circuit, designed to fit into a pocket, with many configurable options.
-Can be controlled by dials, light level and any resistive material. Contains a passive mixer and can utilise oscillator sync.
+Can be controlled by dials, light level and any resistive material. Contains a passive mixer and can utilise oscillator sync. 
+
+You are invited to reproduce the PCB's and experiment yourself.
 
 <img src="fig/synth_photo.jpg" width="800" alt="Rendering of a synth.">
 
