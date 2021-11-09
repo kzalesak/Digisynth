@@ -15,7 +15,7 @@ Our pocket synth is based on the 40106 digital logic CMOS inverter, and has been
 ## Design information
 ### Prerequisites
 #### View and edit
-In order to view and edit the files you are going to need the free open source circuitry tool KiCAD, available from http://kicad-pcb.org/
+In order to view and edit the files you are going to need the free open source circuitry tool KiCAD, available from http://kicad.org/
 It is best viewed with version 5.0 and above.
 
 #### Make copies
